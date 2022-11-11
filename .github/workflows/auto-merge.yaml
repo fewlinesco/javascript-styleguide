@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: 🔬 Auto merge
-        uses: fewlinesco/dependabot-auto-merge@v0.2.0
+        uses: fewlinesco/dependabot-auto-merge@v0.2.1
         with:
           github-token: ${{ secrets.GH_PAT }}
           reviewers: Meyclem Fenntasy
