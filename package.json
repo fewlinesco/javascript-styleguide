@@ -21,7 +21,7 @@
     "eslint-plugin-tailwindcss": "3.7.0",
     "prettier": "2.7.1",
     "prettier-plugin-tailwindcss": "0.1.13",
-    "typescript": "4.8.4"
+    "typescript": "4.9.3"
   },
   "scripts": {
     "experimental-publish": "yarn publish --new-version \"0.0.0-experimental-$(git rev-parse --short HEAD)\" --access public --tag experimental",
