@@ -12,7 +12,7 @@
     }
   },
   "dependencies": {
-    "@remix-run/eslint-config": "1.9.0",
+    "@remix-run/eslint-config": "1.10.1",
     "@typescript-eslint/eslint-plugin": "5.48.0",
     "@typescript-eslint/parser": "5.48.0",
     "eslint": "8.31.0",
