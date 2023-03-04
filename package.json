@@ -4,7 +4,7 @@
   "main": "index.js",
   "name": "@fewlines/javascript-styleguide",
   "repository": "git@github.com:fewlinesco/javascript-styleguide.git",
-  "version": "0.2.0",
+  "version": "0.3.",
   "eslintConfig": {
     "extends": "./node",
     "env": {
