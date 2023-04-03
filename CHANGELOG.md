@@ -1,5 +1,36 @@
 # CHANGELOG
 
+## 0.3.2 - 2023-04-03
+
+## What's Changed
+
+- Bump prettier-plugin-tailwindcss from 0.2.4 to 0.2.5 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/102
+- Bump prettier from 2.8.4 to 2.8.5 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/103
+- Bump @typescript-eslint/eslint-plugin from 5.55.0 to 5.56.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/104
+- Bump @typescript-eslint/parser from 5.55.0 to 5.56.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/105
+- Bump prettier from 2.8.5 to 2.8.6 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/106
+- Bump prettier from 2.8.6 to 2.8.7 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/107
+- Bump @typescript-eslint/parser from 5.56.0 to 5.57.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/108
+- Bump @typescript-eslint/eslint-plugin from 5.56.0 to 5.57.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/109
+- Bump eslint from 8.36.0 to 8.37.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/110
+- Bump prettier-plugin-tailwindcss from 0.2.5 to 0.2.6 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/111
+- Bump typescript from 5.0.2 to 5.0.3 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/112
+- Bump @remix-run/eslint-config from 1.14.3 to 1.15.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/113
+
+**Full Changelog**: https://github.com/fewlinesco/javascript-styleguide/compare/v0.3.1...v0.3.2
+
 ## 0.3.1 - 2023-03-17
 
 Adding those commits to the package:
