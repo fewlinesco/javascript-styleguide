@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## 0.3.3 - 2023-04-14
+
+## What's Changed
+
+- Bump @typescript-eslint/eslint-plugin from 5.57.0 to 5.57.1 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/115
+- Bump @typescript-eslint/parser from 5.57.0 to 5.57.1 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/116
+- Bump prettier-plugin-tailwindcss from 0.2.6 to 0.2.7 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/117
+- Bump eslint from 8.37.0 to 8.38.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/118
+- Bump typescript from 5.0.3 to 5.0.4 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/119
+- Bump @typescript-eslint/eslint-plugin from 5.57.1 to 5.58.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/120
+- Bump @typescript-eslint/parser from 5.57.1 to 5.58.0 by @dependabot in
+  https://github.com/fewlinesco/javascript-styleguide/pull/121
+
+**Full Changelog**: https://github.com/fewlinesco/javascript-styleguide/compare/v0.3.2...v0.3.3
+
 ## 0.3.2 - 2023-04-03
 
 ## What's Changed
