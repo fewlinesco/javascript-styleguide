@@ -12,7 +12,7 @@ directly as it would conflict with ESLint.
 ## General rules
 
 To enforce consistency throughout our imports and exports, we are using
-https://www.npmjs.com/package/eslint-plugin-import[eslint-plugin-import].
+[eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import).
 
 ### Import
 
