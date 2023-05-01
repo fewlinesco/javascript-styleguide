@@ -20,7 +20,7 @@
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-tailwindcss": "3.8.0",
     "prettier": "2.8.8",
-    "prettier-plugin-tailwindcss": "0.2.7",
+    "prettier-plugin-tailwindcss": "0.2.8",
     "typescript": "5.0.4"
   },
   "scripts": {
