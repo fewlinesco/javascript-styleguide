@@ -25,7 +25,7 @@
 - Bump @remix-run/eslint-config from 1.15.0 to 1.16.0 by @dependabot in
   https://github.com/fewlinesco/javascript-styleguide/pull/132
 
-**Full Changelog**: https://github.com/fewlinesco/javascript-styleguide/compare/v0.3.3...v.0.4.0
+**Full Changelog**: https://github.com/fewlinesco/javascript-styleguide/compare/v0.3.3...v.1.0.0
 
 ## 0.3.3 - 2023-04-14
 
