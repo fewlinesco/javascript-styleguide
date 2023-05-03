@@ -2,6 +2,8 @@
 
 ## 1.0.0 - 2023-05-03
 
+This package has been useful for several versions now and it's time to consider it working with a 1.0 release.
+
 ## What's Changed
 
 - Bump @typescript-eslint/parser from 5.58.0 to 5.59.0 by @dependabot in
